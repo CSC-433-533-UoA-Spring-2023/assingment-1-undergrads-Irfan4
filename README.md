@@ -1,6 +1,6 @@
-Author: {FirstName LastName} [{UA Email}]  
-Course: Grad 533 or Undergrad 433
-Date: [Month]. [Day], 2025
+Author: Irfan Ahmad [irfana@arizona.edu]  
+Course: Undergrad 433
+Date: February 10th, 2025
 
 **PLEASE UPDATE THIS README TO INCLUDE:**
 * a text description of how to run your program, 
